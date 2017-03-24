@@ -1,7 +1,11 @@
 # docker-centos-node
-> Base centos
+> A node image base centos image.
 
-Usage
+## Description
+    node: 7.0.0
+    yarn: 0.21.3
+
+## Usage
 ```bash
 docker build -t centos-node .
 ```
